@@ -3,3 +3,12 @@
 @import "bourbon/core/bourbon";
 
 @import "base/base";
+
+.launch {
+  display: flex;
+  justify-content: center;
+}
+
+.exeed-image {
+  margin-top: 25vh;
+}
